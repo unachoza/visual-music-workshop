@@ -46,5 +46,6 @@ function initVisualizer() {
     ctx.moveTo(0, 0)
     ctx.lineTo(canvas.width, canvas.height)
     ctx.stroke()
+    
   }
 }
